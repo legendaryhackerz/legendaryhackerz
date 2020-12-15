@@ -1,5 +1,5 @@
 ### Hey BUDDY 👋
-
+<a href="https://github.com/legendaryhackerz"><img title="Github" src="https://img.shields.io/badge/legendaryhackerzrightgreen?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/legendaryhackerz"><img title="Github" src="https://img.shields.io/badge/legendaryhacker-brightgreen?style=for-the-badge&logo=github"></a>
