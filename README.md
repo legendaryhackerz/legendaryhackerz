@@ -1,10 +1,11 @@
 ### Hey BUDDY 👋
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/legendary-hackerz-brightgreen?style=for-the-badge"></a>
-<a href="https://github.com/legendaryhackerz"><img title="Github" src="https://img.shields.io/badge/legendaryhackerzrightgreen?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/legendaryhackerz"><img title="Github" src="https://img.shields.io/badge/legendaryhacker-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/legendaryhackerz"><img title="Github" src="https://img.shields.io/badge/legendary-hackerz-brightgreen?style=for-the-badge&logo=github"></a>
+
+
+
+
+
 <a href=><img title="YouTube" src="https://img.shields.io/badge/YouTube-Legendary Hacker-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
