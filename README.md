@@ -1,6 +1,6 @@
 ### Hey BUDDY 👋
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/legendary-hackerz-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/legendary-hackerz-brightgreen?style=for-the-badge"></a>
 <a href="https://github.com/legendaryhackerz"><img title="Github" src="https://img.shields.io/badge/legendaryhackerzrightgreen?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
