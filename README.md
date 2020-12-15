@@ -1,6 +1,6 @@
 ### Hey BUDDY 👋
-<p align="center">
-<a href="https://github.com/legendaryhackerz"><img title="Github" src="https://img.shields.io/badge/legendary-hackerz-brightgreen?style=for-the-badge&logo=github"
+
+
 
 
 <p align="center">
@@ -9,8 +9,8 @@
 </p>
 
 
-><img title="YouTube" src="https://img.shields.io/badge/YouTube-Legendary Hacker-red?style=for-the-badge&logo=Youtube"></a>
-</p>
+
+
 <p align="center">
 <a href="https://github.com/legendaryhackerz"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
 <a href="https://github.com/legendaryhackerz"><img title="Followers" src="https://img.shields.io/github/followers/legendaryhackerz?color=blue&style=flat-square"></a>
