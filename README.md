@@ -6,7 +6,7 @@
 
 
 
-    <img title="YouTube" src="https://img.shields.io/badge/YouTube-Legendary Hacker-red?style=for-the-badge&logo=Youtube"></a>
+<img title="YouTube" src="https://img.shields.io/badge/YouTube-Legendary Hacker-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/legendaryhackerz"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
