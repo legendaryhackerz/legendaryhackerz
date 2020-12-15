@@ -3,7 +3,10 @@
 <a href="https://github.com/legendaryhackerz"><img title="Github" src="https://img.shields.io/badge/legendary-hackerz-brightgreen?style=for-the-badge&logo=github"
 
 
-
+<p align="center">
+<a href="https://github.com/legendaryhackerz"><img title="Github" src="https://img.shields.io/badge/legendary-hacker-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="youtube.com/c/Legendary Hacker"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Legendary Hacker-red?style=for-the-badge&logo=Youtube"></a>
+</p>
 
 
 ><img title="YouTube" src="https://img.shields.io/badge/YouTube-Legendary Hacker-red?style=for-the-badge&logo=Youtube"></a>
