@@ -5,7 +5,7 @@
 
 
 
-<p align="center">
+<p align="right">
 <img title="YouTube" src="https://img.shields.io/badge/YouTube-Legendary Hacker-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
