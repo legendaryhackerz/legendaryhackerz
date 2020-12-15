@@ -10,7 +10,7 @@
 <a href="https://github.com/legendaryhackerz"><img title="Followers" src="https://img.shields.io/github/followers/legendaryhackerz?color=blue&style=flat-square"></a>
 <a href="https://github.com/legendaryhackerz"><img title="Stars" src="https://img.shields.io/github/stars/legendaryhackerz/autoig?color=red&style=flat-square"></a>
 <a href="https://github.com/legendaryhackerz"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/autoig?color=red&style=flat-square"></a>
-<a href="https://github.com/legendaryhackerz"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/autoig?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/legendaryhackerz"><img title="Watching" src="https://img.shields.io/github/watchers/legendaryhackerz/autoig?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/legendaryhackerz"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
