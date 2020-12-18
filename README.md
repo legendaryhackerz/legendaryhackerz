@@ -3,8 +3,8 @@
 
 <p align="center"><a href="https://github.com/legendaryhackerz"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=legendaryhackerz&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
-<p align="center"><a href="https://github.com/legendarhackerz"><img src= alt="Bt">
-</p>
+
+
 
 <p align="center">
 <a href="https://github.com/legendaryhackerz"><img title="Github" src="https://img.shields.io/badge/legendary-hacker-brightgreen?style=for-the-badge&logo=github"></a>
