@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://github.com/legendaryhackerz"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=legendaryhackerz&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
-<p align="center"><a href="https://github.com/legendarhackerz"><img src="https://user-images.githubusercontent.com/64035221/92437232-0c45b380-f1c4-11ea-8798-5a4b33fc0476.jpg" alt="Bt">
+<p align="center"><a href="https://github.com/legendarhackerz"><img src= alt="Bt">
 </p>
 
 <p align="center">
